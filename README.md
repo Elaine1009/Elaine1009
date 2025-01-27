@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm currently a student at Purdue University
+I was in Taipei first girls high school
+
 <!--
 **Elaine1009/Elaine1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
