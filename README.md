@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently a student at Purdue University.
+I'm currently a student at Purdue University majoring in Computer Engineering.
 
 
 <!--
