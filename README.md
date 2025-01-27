@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm currently a student at Purdue University \n
-I was in Taipei first girls high school
+I'm currently a student at Purdue University.
+
 
 <!--
 **Elaine1009/Elaine1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
